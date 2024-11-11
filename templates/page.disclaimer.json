@@ -1,0 +1,55 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "6b2d3144-5300-4762-b938-3fd689b1c205": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16014537130157__6b2d3144-5300-4762-b938-3fd689b1c205-1673451384c0d362b9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Disclaimer<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16014537130157__6b2d3144-5300-4762-b938-3fd689b1c205-1673451384c0d362b9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>De inhoud van de website, waaronder doch niet uitsluitend: de teksten, afbeeldingen, vormgeving, merken en domeinnamen, zijn het eigendom van KUT.illustraties en worden beschermd door auteursrechten en intellectuele of industriële eigendomsrechten die onder het toepasselijk recht bestaan. Het is niet toegestaan om de website of enig gedeelte daarvan te verveelvoudigen dan wel ter beschikking te stellen zonder toestemming van KUT.illustraties.<\/p><p>De door KUT.illustraties verstrekte informatie en afbeeldingen zijn met de grootst mogelijke zorgvuldigheid op deze website geplaatst, maar voor de juistheid en volledigheid kan niet worden ingestaan. KUT.illustraties streeft ernaar om de website constant te onderhouden en te actualiseren, maar kan er niet voor instaan dat de inhoud van deze website na verloop van tijd of op het moment dat deze website geraadpleegd wordt nog steeds actueel is.<\/p><p>De informatie op deze website kan altijd zonder aankondiging worden gewijzigd. De bezoeker van de website is zelf verantwoordelijk voor het gebruik van deze website. De websites die vanuit deze website bezocht kunnen worden, zijn niet door KUT.illustraties ingericht en worden niet door KUT.illustraties gemaakt.<\/p><p>KUT.illustraties aanvaardt dan ook geen aansprakelijkheid voor schade in verband met het gebruik van deze website en de informatie (of de onmogelijkheid die te gebruiken), daaronder begrepen schade veroorzaakt door virussen of onjuistheid of onvolledigheid van informatie, informatie op of via een website waarnaar op de website verwezen wordt, of informatie van of via een website die naar een website verwijst en informatie die zonder voorafgaand overleg met ons op de website wordt geplaatst.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16014537130157__6b2d3144-5300-4762-b938-3fd689b1c205-1673451384c0d362b9-0",
+        "template--16014537130157__6b2d3144-5300-4762-b938-3fd689b1c205-1673451384c0d362b9-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "6b2d3144-5300-4762-b938-3fd689b1c205"
+  ]
+}

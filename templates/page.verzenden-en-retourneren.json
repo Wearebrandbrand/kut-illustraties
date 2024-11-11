@@ -1,0 +1,76 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "c3198f39-6883-4f6a-afd1-e9e3bdb0daac": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16014521008301__c3198f39-6883-4f6a-afd1-e9e3bdb0daac-167345080528b56ff3-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Verzendkosten",
+            "icon": "none",
+            "row_content": "<p>Op dit moment worden producten alleen verzonden binnen Nederland en naar België. Onze producten worden verzonden vanuit Nederland. <\/p><p><\/p><p><strong>NEDERLAND<br\/><\/strong>Brievenbus post kaarten NL: €4<br\/>Brievenbus post NL: €4.50<br\/>Pakket post NL: €7<br\/>Bestel je boven de €40 Verzending gratis!<\/p><p>​<\/p><p><strong>BELGIE<br\/><\/strong>Brievenbus post kaarten BE: €4<br\/>Brievenbus post BE: €9.00<br\/>Bestel je boven de €60- Verzending gratis!<\/p>",
+            "page": ""
+          }
+        },
+        "template--16014521008301__c3198f39-6883-4f6a-afd1-e9e3bdb0daac-167345080528b56ff3-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Verwerking en Verzendtijd",
+            "icon": "none",
+            "row_content": "<p><strong>VERZENDTIJD<\/strong><br\/>Nederland: 1-5 werkdagen<br\/>België: 2-7 werkdagen<\/p>",
+            "page": ""
+          }
+        },
+        "template--16014521008301__c3198f39-6883-4f6a-afd1-e9e3bdb0daac-167345080528b56ff3-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Ruilen & Retourneren",
+            "icon": "none",
+            "row_content": "<p>Mocht je onverhoopt niet tevreden zijn met je product, kan je deze binnen 14 dagen na aankoop retourneren. We verzenden of de bestelling opnieuw of we bieden een terugbetaling aan. ​<\/p><p>Het product moeten wij in de originele conditie en ongebruikt terugontvangen. Voeg de pakbon toe aan je retourzending. Mocht je het artikel willen vervangen of ruilen, plaats dan een nieuwe bestelling via onze webshop. De verzendingen naar KUT.illustraties vallen onder de verantwoordelijkheid van de klant. Wij raden dan ook aan bij het retourneren, gebruik te maken van zending met track en trace. De klant is verantwoordelijk voor de kosten van de retourzending.<\/p><p>Alle bestellingen worden met Post NL verzonden. Wij doen ons best om je bestelling heel aan te laten komen. Contact ons als je bestelling beschadigd aankomt via: <a href=\"mailto:hoi@kutillustraties.com\">hoi@kutillustraties.com<\/a> met een foto van je beschadigde(n) product(en).<\/p><p><strong>RETOUR ADRES<\/strong><br\/>KUT.illustraties<br\/>Verwersdijk 2<br\/>2611 NH Delft<\/p><p><strong>GELD TERUG<br\/><\/strong>Binnen 14 dagen na het ontvangen van de retour, starten wij de ‘geld terug’ procedure. Wanneer wij de retour artikelen hebben verwerkt, zal je ter bevestiging hiervan een email ontvangen. Wij zullen het aankoopbedrag terugstorten op het account van de door jouw gemaakte betaling methode.<\/p><p>Meer informatie over verzenden en retourneren kun je vinden in  <\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0612\/3454\/4813\/files\/def-alg-vwd-KUT.illustraties_v2_20-05-2022.pdf?v=1673454956\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0612\/3454\/4813\/files\/def-alg-vwd-KUT.illustraties_v2_20-05-2022.pdf?v=1673454956\"><span style=\"text-decoration:underline\"><strong>Algemene Voorwaarden<\/strong><\/span><strong>, <\/strong><\/a>art. 6.7 t\/m 6.13.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16014521008301__c3198f39-6883-4f6a-afd1-e9e3bdb0daac-167345080528b56ff3-0",
+        "template--16014521008301__c3198f39-6883-4f6a-afd1-e9e3bdb0daac-167345080528b56ff3-1",
+        "template--16014521008301__c3198f39-6883-4f6a-afd1-e9e3bdb0daac-167345080528b56ff3-2"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Verzenden en Retourneren",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "c3198f39-6883-4f6a-afd1-e9e3bdb0daac"
+  ]
+}

@@ -1,0 +1,192 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b365e834-e9c3-4bfd-a650-de4f3c58c70e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16014450589869__b365e834-e9c3-4bfd-a650-de4f3c58c70e-16739676680f702d64-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Kut vraagje?<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--16014450589869__b365e834-e9c3-4bfd-a650-de4f3c58c70e-16739676680f702d64-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Voor al je <strong>kut vragen<\/strong> kun je bij ons terecht :) Stuur daarvoor een mailtje naar:<br\/>hoi@kutillustraties.com <br\/><\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16014450589869__b365e834-e9c3-4bfd-a650-de4f3c58c70e-16739676680f702d64-0",
+        "template--16014450589869__b365e834-e9c3-4bfd-a650-de4f3c58c70e-16739676680f702d64-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 8
+      }
+    },
+    "rich_text_afLfzK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8pgXAK": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Verkooppunten<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "text_qeVzrC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Support je locals! Ben je benieuwd of KUT bij jou in buurt te vinden is?<br\/>Check dan eventjes <a href=\"\/pages\/verkooppunten\" title=\"Verkooppunten\"><strong>dit overzicht<\/strong><\/a><strong>. <\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8pgXAK",
+        "text_qeVzrC"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_eGcDBU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RchrtC": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Wholesale vragen?<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "text_b7kACQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Heb je een <strong>fysieke winkel<\/strong>? En ben je geïntresseerd in producten van KUT.illustraties?<br\/>Neem dan hier een kijkje:<\/p><p><\/p>"
+          }
+        },
+        "button_hDHJ4n": {
+          "type": "button",
+          "settings": {
+            "button_label": "W I N K E L S",
+            "button_link": "https:\/\/dolly.works\/inschrijven\/nl\/kut-illustraties\/",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_RchrtC",
+        "text_b7kACQ",
+        "button_hDHJ4n"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "86724a29-81fa-44ae-87fb-b07e29edb6bb": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16014450589869__86724a29-81fa-44ae-87fb-b07e29edb6bb-167344120642899640-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Of kom gezellig langs bij de KUT studio<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--16014450589869__86724a29-81fa-44ae-87fb-b07e29edb6bb-167344120642899640-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"\/pages\/kut-studio\" title=\"KUT studio\"><strong>Steen, Papier, Schaar<\/strong><\/a><br\/>Verwersdijk 2<br\/>2611 NH Delft<\/p><p>Woensdag tot vrijdag:         12.00 - 17.30<br\/>Zaterdag:                             12.00 - 17.00<\/p><p><\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16014450589869__86724a29-81fa-44ae-87fb-b07e29edb6bb-167344120642899640-0",
+        "template--16014450589869__86724a29-81fa-44ae-87fb-b07e29edb6bb-167344120642899640-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "rich_text_N6KtHf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MHt4nD": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Wholesale vragen?<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "text_ByVQhJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Heb je een <strong>fysieke winkel<\/strong>? En ben je geïnteresseerd in producten van KUT.illustraties?<br\/>Ga dan naar deze link:<\/p><p><a href=\"https:\/\/dolly.works\/inschrijven\/nl\/kut-illustraties\/\" target=\"_blank\"><span style=\"text-decoration:underline\"><strong>https:\/\/dolly.works\/inschrijven\/nl\/kut-illustraties\/<\/strong><\/span><\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MHt4nD",
+        "text_ByVQhJ"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b365e834-e9c3-4bfd-a650-de4f3c58c70e",
+    "rich_text_afLfzK",
+    "rich_text_eGcDBU",
+    "86724a29-81fa-44ae-87fb-b07e29edb6bb",
+    "rich_text_N6KtHf"
+  ]
+}

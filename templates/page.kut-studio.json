@@ -1,0 +1,61 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_with_text_wGxAqG": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_mkReYf": {
+          "type": "heading",
+          "settings": {
+            "heading": "K U T . S T U D I O",
+            "heading_size": "h2"
+          }
+        },
+        "text_TUaL3t": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Aan de Verwersdijk 2 in het kleine maar fijne Delft, bevindt zich Steen Papier Schaar, aka mijn blije KUT oase! Hier, in mijn studio, komen alle kutten tot leven en ben ik met heel veel plezier aan het illustreren.<\/p><p>​Naast mijn studio, heb ik hier samen met mijn partner in crime '<a href=\"https:\/\/nl.liesdevooght-jewelry.com\/\" target=\"_blank\" title=\"https:\/\/nl.liesdevooght-jewelry.com\/\">Lies de Vooght Edelsmid<\/a>' ook onze gedeelde winkel. We verkopen hier niet alleen mijn KUT producten en Lies haar sieraden, maar ook het werk van andere toffe, kleurrijke ontwerpers uit Nederland en Europa. De perfecte plek voor cadeautjes voor jezelf en alle leuke mensen om je heen! <\/p><p>Ik kijk er iedere dag weer naar uit om bij Steen Papier Schaar te zijn. De gezellige mensen die de hele dag door binnen wandelen, het zonnetje die de winkel altijd zo'n mooie, warme gloed geeft, mijn kleurrijke werkplek waar inspiratie vanzelf gaat borrelen en natuurlijk de leuke girl squad waarmee ik de ruimte deel! Super leuk als je een keertje komt gluren!<\/p><p><\/p><p>Check vooral ook eventjes de <a href=\"https:\/\/www.instagram.com\/steen_papier_schaar\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/steen_papier_schaar\/\">insta<\/a> & <a href=\"https:\/\/www.steenpapierschaardelft.nl\/\" target=\"_blank\" title=\"https:\/\/www.steenpapierschaardelft.nl\/\">website<\/a> van Steen Papier Schaar :)<\/p><p><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mkReYf",
+        "text_TUaL3t"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/SPS_kutstudio.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_wGxAqG"
+  ]
+}

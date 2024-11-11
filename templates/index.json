@@ -1,0 +1,221 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "K U T  S H O P",
+            "button_link_1": "shopify:\/\/collections\/frontpage",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/huppelkut-KUT.illustraties.png",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "image_with_text_PtKkkj": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ncYhbx": {
+          "type": "heading",
+          "settings": {
+            "heading": "K U T . T A S",
+            "heading_size": "h2"
+          }
+        },
+        "text_9CkbUy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vers van de pers! De spiksplinternieuwe KUT tas! Perfect om al je kut spullen mee te vervoeren tijdens al je kut avonturen!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_zPhUQn": {
+          "type": "button",
+          "settings": {
+            "button_label": "S H O P",
+            "button_link": "shopify:\/\/products\/kut-tas"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ncYhbx",
+        "text_9CkbUy",
+        "button_zPhUQn"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/websitefoto_kuttass.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_LzTxcV": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "K U T .  P O S T E R S",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "kut-posters",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "accent-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_GTDFMh": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_awRaMm": {
+          "type": "heading",
+          "settings": {
+            "heading": "K U T",
+            "heading_size": "h1"
+          }
+        },
+        "text_BEMM9T": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Benieuwd hoe KUT ontstaan is, wie toch degene is die de hele dag kutjes zit te tekenen en welke huppelkutjes er nog meer allemaal rond huppelen in de KUT studio? Lees dan snel verder!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_3hezXK": {
+          "type": "button",
+          "settings": {
+            "button_label": "M E E R",
+            "button_link": "https:\/\/kutillustraties.com\/pages\/about"
+          }
+        }
+      },
+      "block_order": [
+        "heading_awRaMm",
+        "text_BEMM9T",
+        "button_3hezXK"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/websitefoto_studio.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_eA7nzz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4FReiJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Volg KUT op INSTA<\/p>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4FReiJ"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "instafeed_jkEGzW": {
+      "type": "instafeed",
+      "settings": {
+        "heading_size": 23,
+        "feed_width": 90,
+        "html_area": ""
+      }
+    },
+    "1673443524e068b253": {
+      "type": "apps",
+      "blocks": {
+        "5f1512d7-a38f-4f8b-887a-954792355e2e": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "#121212",
+            "alignment": "center",
+            "background_color": "#fffef4",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "5f1512d7-a38f-4f8b-887a-954792355e2e"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "image_with_text_PtKkkj",
+    "featured_collection_LzTxcV",
+    "image_with_text_GTDFMh",
+    "rich_text_eA7nzz",
+    "instafeed_jkEGzW",
+    "1673443524e068b253"
+  ]
+}

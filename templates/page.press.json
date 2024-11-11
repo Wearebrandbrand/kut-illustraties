@@ -1,0 +1,103 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "d34c5d01-90cf-407c-869d-722ccf4b18d2": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15460371300525__d34c5d01-90cf-407c-869d-722ccf4b18d2-167343779502121cf3-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_Artwork_3.png",
+            "title": "F L A I R",
+            "text": "<p>De poster 'Ra-kut-ijsje' werd gefeatured in de Flair zomereditie van 2024, met daarnaast een leuk verhaaltje over KUT!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15460371300525__d34c5d01-90cf-407c-869d-722ccf4b18d2-167343779502121cf3-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/websitefoto_lindameiden.jpg",
+            "title": "L I N D A . M E I D E N",
+            "text": "<p>'Fien laat haar kut kaarten zien'. Een interview over KUT.illustraties, taboe's en internetcensuur voor de Linda Meiden website. Lees <a href=\"https:\/\/www.linda.nl\/meiden\/fien-laat-haar-kut-kaarten-zien\/\" target=\"_blank\" title=\"https:\/\/www.linda.nl\/meiden\/fien-laat-haar-kut-kaarten-zien\/\">hier<\/a> het hele artikel :)<br\/><br\/><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6HYzmU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/websitefoto_C.jpg",
+            "title": "& C .  M A G A Z I N E",
+            "text": "<p>KUT.illustraties werd genoemd in de &C jubileum editie van maart 2022.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_HqBC3U": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/websitefoto_tabbo_artikel.jpg",
+            "title": "T U R N . T H E . P A G E",
+            "text": "<p>In april 2021 mocht ik kut tekeningen maken voor bij het artikel van seks toy ontwerper Lisa Kleisen. Het interview is te vinden in het magazine 'Turn the Page' no. 76.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_EGQrJG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/websitefoto_ad_artikel.jpg",
+            "title": "A D",
+            "text": "<p>Voor dit artikel gaan we even flink terug in de tijd! In 2021 werd ik door het AD namelijk geïnterviewd over KUT. Lees <a href=\"https:\/\/www.ad.nl\/werk\/fien-start-haar-kut-bedrijf-mijn-illustraties-doorbreken-taboe-ze-noemen-het-niet-voor-niets-schaamstreek~ab0cf1f4\/\" target=\"_blank\" title=\"https:\/\/www.ad.nl\/werk\/fien-start-haar-kut-bedrijf-mijn-illustraties-doorbreken-taboe-ze-noemen-het-niet-voor-niets-schaamstreek~ab0cf1f4\/\">hier<\/a> het artikel.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15460371300525__d34c5d01-90cf-407c-869d-722ccf4b18d2-167343779502121cf3-0",
+        "template--15460371300525__d34c5d01-90cf-407c-869d-722ccf4b18d2-167343779502121cf3-1",
+        "column_6HYzmU",
+        "column_HqBC3U",
+        "column_EGQrJG"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "d34c5d01-90cf-407c-869d-722ccf4b18d2"
+  ]
+}
