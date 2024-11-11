@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "colors_solid_button_labels": "#fffef4",
@@ -132,7 +141,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/kut_illu_logo_web.png",
+          "logo": "shopify://shop_images/kut_illu_logo_web.png",
           "logo_width": 90,
           "logo_position": "middle-left",
           "menu": "hoofd-menu",
@@ -151,7 +160,7 @@
           "0d618940-2498-420b-b669-2125a9ad4814": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Kut_Logo_website.png",
+              "image": "shopify://shop_images/Kut_Logo_website.png",
               "image_width": 200,
               "alignment": "center"
             }
@@ -160,7 +169,7 @@
             "type": "text",
             "settings": {
               "heading": "Studio ruimte bij:",
-              "subtext": "<p><strong>STEEN PAPIER SCHAAR<\/strong> <br\/>Verwersdijk 2 <br\/>2611NH Delft<\/p><p><\/p><p><strong>EMAIL:<\/strong><br\/>hoi@kutillustraties.com<\/p><p><\/p>"
+              "subtext": "<p><strong>STEEN PAPIER SCHAAR</strong> <br/>Verwersdijk 2 <br/>2611NH Delft</p><p></p><p><strong>EMAIL:</strong><br/>hoi@kutillustraties.com</p><p></p>"
             }
           },
           "footer-0": {
@@ -385,7 +394,7 @@
               "type": "text",
               "settings": {
                 "heading": "Our mission",
-                "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+                "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
               }
             }
           },
