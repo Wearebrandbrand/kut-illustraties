@@ -1,0 +1,188 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_with_text_YDeehM": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_gaQ9Cj": {
+          "type": "heading",
+          "settings": {
+            "heading": "M I L K S H A K E",
+            "heading_size": "h1"
+          }
+        },
+        "text_CxGKpT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sinds 2022 sta ik ieder jaar met een KUT kraam op het aller leukste en kleurrijkste festival van Amsterdam: Milkshake. Het is ieder jaar weer een feestje!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_CymyqP": {
+          "type": "button",
+          "settings": {
+            "button_label": "A F T E R  M O V I E",
+            "button_link": "https:\/\/www.instagram.com\/p\/C-IImnAoRuS\/"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gaQ9Cj",
+        "text_CxGKpT",
+        "button_CymyqP"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_Artwork_4.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_rEw6y9": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_jTCXHf": {
+          "type": "heading",
+          "settings": {
+            "heading": "F O E F S A F A R I",
+            "heading_size": "h1"
+          }
+        },
+        "text_R9nHzB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In maart 2021 kwam het 'Foefsafari' T-shirt uit, die ik mocht ontwerpen voor het gelijknamige nummer van zangeres Merol. Het T-shirt werd in samenwerking met de Amsterdamse winkel TITS store uitgegeven.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jTCXHf",
+        "text_R9nHzB"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/18130875583197329.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_x4z9hH": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_kqtQNN": {
+          "type": "heading",
+          "settings": {
+            "heading": "C H E E X",
+            "heading_size": "h1"
+          }
+        },
+        "text_hVYFfk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Het ethische porno platform CHEEX vroeg mij om een illustratie te maken ter promotie van hun website. De illustratie werd gebruikt op social media.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_kqtQNN",
+        "text_hVYFfk"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_Artwork_5.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_4cCMar": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_VJJXPQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "P R E S S",
+            "heading_size": "h1"
+          }
+        },
+        "text_mphaqM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Van Linda Meiden tot aan het AD, KUT heeft door de jaren heen in verscheidene tijdschriften en kranten gestaan. Klik hieronder voor een kijkje in deze artikelen.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_tEyVQV": {
+          "type": "button",
+          "settings": {
+            "button_label": "M E E R",
+            "button_link": "https:\/\/kutillustraties.com\/pages\/press"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VJJXPQ",
+        "text_mphaqM",
+        "button_tEyVQV"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_Artwork_3.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_YDeehM",
+    "image_with_text_rEw6y9",
+    "image_with_text_x4z9hH",
+    "image_with_text_4cCMar"
+  ]
+}

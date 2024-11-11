@@ -1,0 +1,136 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "c3198f39-6883-4f6a-afd1-e9e3bdb0daac": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16014521008301__c3198f39-6883-4f6a-afd1-e9e3bdb0daac-167345080528b56ff3-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Wat zijn KUT.cookies nu precies?",
+            "icon": "none",
+            "row_content": "<p>KUT.illustraties maakt gebruik van KUT.cookies. KUT.cookies zijn kleine tekstbestanden die tijdens jouw bezoek aan deze website op de harde schijf of in het geheugen van het apparaat waarmee je deze website bekijkt, worden geplaatst. In deze tekstbestanden wordt informatie opgeslagen. De KUT.cookies bevatten geen virussen en kunnen jouw telefoon, tablet of PC geen schade toebrengen. Kom je op een later moment weer op deze website? Dan wordt jouw informatie herkend en registreren de KUT.cookies dat je deze website weer opnieuw bekijkt.<\/p>",
+            "page": ""
+          }
+        },
+        "template--16014521008301__c3198f39-6883-4f6a-afd1-e9e3bdb0daac-167345080528b56ff3-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Maar waarom plaats ik KUT.cookies?",
+            "icon": "none",
+            "row_content": "<p>Ik plaats deze specifieke KUT.cookies om jouw gebruiksgemak voor deze website te vergroten en in verband met een commercieel belang. Door het plaatsen van KUT.cookies kan ik de structuur, de navigatie op de website (dat wat jij bekijkt) en de inhoud van deze website zo gebruiksvriendelijk mogelijk maken zodat je deze website altijd en overal kunt bezoeken en de informatie kunt raadplegen wanneer nodig.<\/p>",
+            "page": ""
+          }
+        },
+        "5c7f1f97-7364-448a-9ca0-386cf69e05b5": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Welke soorten KUT.cookies gebruik ik?",
+            "icon": "none",
+            "row_content": "<p>De website maakt gebruik van zowel functionele, analytische als tracking KUT.cookies. Deze gebruik ik om de website zo goed mogelijk te laten functioneren en de analytische KUT.cookies gebruik ik om jouw gedrag op deze website in kaart te brengen. De KUT.cookies die ik plaats gebruiken geen persoonsgegevens.<\/p>",
+            "page": ""
+          }
+        },
+        "42faca0c-0203-4240-bdc1-be5fd4330537": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Functionele KUT.cookies",
+            "icon": "none",
+            "row_content": "<p>Functionele KUT.cookies zijn KUT.cookies die noodzakelijk zijn voor het functioneren van deze website en\/of webshop. Denk aan het ‘bewaren’ van producten of diensten in de winkelwagen, het onthouden van je inloggegevens en het bijhouden of KUT.cookies wel of niet geplaatst mogen worden.<\/p>",
+            "page": ""
+          }
+        },
+        "8ac386fb-dcd1-42e6-ab69-8a61a01b5012": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Analytische KUT.cookies",
+            "icon": "none",
+            "row_content": "<p>Om na te gaan wat je allemaal op de website bekijkt gebruik ik Google Analytics en Sentry. Google plaatst KUT.cookies op jouw apparaat en hierdoor kan ik zien wat jouw surfgedrag is op deze website. Om te bepalen welke onderdelen van deze website het meest interessant zijn voor mijn bezoekers, jou dus, wordt gemeten hoeveel bezoekers op deze website komen en welke onderdelen het meest bekeken worden.<\/p>",
+            "page": ""
+          }
+        },
+        "cb72258a-2065-498e-ac51-db21a306e446": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Social media buttons",
+            "icon": "none",
+            "row_content": "<p>Op mijn website gebruik ik social media buttons. Met deze share buttons kun je in contact komen met mij via social media en mijn berichten delen op jouw social media kanalen. Via deze buttons plaatsen Facebook, LinkedIn en Instagram etc. KUT.cookies op jouw telefoon, tablet of PC. Deze KUT.cookies zorgen voor het gebruiksgemak van de website en brengen jouw surfgedrag in kaart.<\/p>",
+            "page": ""
+          }
+        },
+        "37181248-770e-4b61-a22f-80d0a348b762": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Gebruik van KUT.cookies",
+            "icon": "none",
+            "row_content": "<p>Het gebruik van KUT.cookies is veilig, er kunnen geen persoonsgegevens uit worden herleid. Jouw telefoonnummer of bijvoorbeeld jouw e-mailadres blijven dus onbekend. Geen zorgen voor e-mailspam of telemarketing acties, ik zal je daar niet mee kunnen lastigvallen.<\/p><p>Daarnaast heb ik een verwerkersovereenkomst gesloten met de partij die de KUT.cookies plaatst zodat zij jouw gegevens niet voor andere doeleinden mogen gebruiken. Om te bepalen welke onderdelen je het meest bekijkt meet ik continue jouw gedrag op deze website. Hiervoor gebruik ik Google Analytics. Javascript zorgt ervoor dat ik pageviews kan tellen.<\/p><p>Van de informatie die ik op deze website verzamel worden statistieken gemaakt, ik gebruik deze onder andere voor de volgende doeleinden;<\/p><ul><li>het bijhouden van het aantal bezoekers op deze website;<\/li><li>het bijhouden van de tijd die je op deze website doorbrengt;<\/li><li>het bepalen van de volgorde waarin je pagina’s op deze website bezoekt;<\/li><li>het beoordelen welke pagina’s van deze website misschien moeten worden aangepast;<\/li><li>het optimaliseren van deze website en mijn service.<\/li><\/ul><p>Ik vind het van groot belang dat je weet welke KUT.cookies deze website inzet en voor welke doeleinden deze gebruikt worden. Ik wil namelijk jouw privacy en de gebruiksvriendelijkheid van deze website in de gaten houden en zorgen dat deze beide gewaarborgd blijven.<\/p><p>Ik gebruik de KUT.cookies namelijk ook voor;<\/p><ul><li>het opslaan van instellingen voor een optimale weergave, zoals de gewenste buffergrootte en de resolutiegegevens van jouw scherm;<\/li><li>het uitlezen van jouw browserinstellingen om deze website optimaal op jouw beeldscherm te kunnen weergeven;<\/li><li>het gelijkmatig belasten van de website, waardoor de site goed bereikbaar blijft.<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "19b755a8-7920-47a1-bfe3-8340e6042df5": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Browserinstellingen",
+            "icon": "none",
+            "row_content": "<p>KUT.cookies die niet persé noodzakelijk zijn, worden pas geplaatst nadat jij daar toestemming voor hebt gegeven door het klikken op ‘akkoord’ in de cookiebar. Als je niet wilt dat deze website op jouw computer KUT.cookies plaatst, dan kun je jouw browserinstellingen aanpassen zodat je een waarschuwing krijgt voordat er KUT.cookies worden geplaatst, en indien mogelijk altijd automatisch weigeren. Ook kun je KUT.cookies die al geplaatst zijn, verwijderen. Let er wel op dat je dit per browser en per computer die je gebruikt moet doen.<\/p><p>Als je dus Internet Explorer én Google Chrome gebruikt moet je twee keer jouw KUT.cookies verwijderen. Wees je er wel van bewust dat wanneer je geen KUT.cookies wilt, ik niet kan garanderen dat deze website naar behoren werkt. Functies op de website kunnen minder goed werken of je ziet fouten op de website. Daarnaast betekent het weigeren van KUT.cookies niet dat je geen advertenties meer te zien krijgt, advertenties zijn dan alleen niet meer op jouw voorkeur geselecteerd. Hoe je jouw instellingen kunt aanpassen of KUT.cookies kunt verwijderen verschilt per browser.<\/p>",
+            "page": ""
+          }
+        },
+        "be6a99ce-5438-4267-a99f-953f4990adb4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Vragen?",
+            "icon": "none",
+            "row_content": "<p>Soms kan het zijn dat ik wijzigingen aanbreng in het gebruik van KUT.cookies op deze website. Ik raad je daarom aan dit cookiebeleid regelmatig te raadplegen. Mocht je nog vragen hebben over de KUT.cookies die ik gebruik, dan kun je contact opnemen via het contactformulier of een e-mail sturen naar<a href=\"mailto:hoi@kutillustraties.com\" target=\"_self\"><span style=\"text-decoration:underline\">hoi@kutillustraties.com<\/span><\/a>.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16014521008301__c3198f39-6883-4f6a-afd1-e9e3bdb0daac-167345080528b56ff3-0",
+        "template--16014521008301__c3198f39-6883-4f6a-afd1-e9e3bdb0daac-167345080528b56ff3-2",
+        "5c7f1f97-7364-448a-9ca0-386cf69e05b5",
+        "42faca0c-0203-4240-bdc1-be5fd4330537",
+        "8ac386fb-dcd1-42e6-ab69-8a61a01b5012",
+        "cb72258a-2065-498e-ac51-db21a306e446",
+        "37181248-770e-4b61-a22f-80d0a348b762",
+        "19b755a8-7920-47a1-bfe3-8340e6042df5",
+        "be6a99ce-5438-4267-a99f-953f4990adb4"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Cookie Beleid",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "c3198f39-6883-4f6a-afd1-e9e3bdb0daac"
+  ]
+}
