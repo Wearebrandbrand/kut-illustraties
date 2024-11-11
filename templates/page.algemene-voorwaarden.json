@@ -1,0 +1,73 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "5e2232bf-a8ba-4b98-91cf-25e2b21e6b5d": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16014510063789__5e2232bf-a8ba-4b98-91cf-25e2b21e6b5d-16734493884f50c7f1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Kut Algemene Voorwaarden",
+            "heading_size": "h1"
+          }
+        },
+        "template--16014510063789__5e2232bf-a8ba-4b98-91cf-25e2b21e6b5d-16734493884f50c7f1-1": {
+          "type": "text",
+          "settings": {
+            "text": "Lees hier mijn algemene voorwaarden",
+            "text_style": "subtitle"
+          }
+        },
+        "template--16014510063789__5e2232bf-a8ba-4b98-91cf-25e2b21e6b5d-16734493884f50c7f1-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Algemene Voorwaarden",
+            "button_link_1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0612\/3454\/4813\/files\/def-alg-vwd-KUT.illustraties_v2_20-05-2022.pdf?v=1673454956",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16014510063789__5e2232bf-a8ba-4b98-91cf-25e2b21e6b5d-16734493884f50c7f1-0",
+        "template--16014510063789__5e2232bf-a8ba-4b98-91cf-25e2b21e6b5d-16734493884f50c7f1-1",
+        "template--16014510063789__5e2232bf-a8ba-4b98-91cf-25e2b21e6b5d-16734493884f50c7f1-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_Artwork_910.png",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "5e2232bf-a8ba-4b98-91cf-25e2b21e6b5d"
+  ]
+}

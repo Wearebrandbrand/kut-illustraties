@@ -1,0 +1,187 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "6b2d3144-5300-4762-b938-3fd689b1c205": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16014537130157__6b2d3144-5300-4762-b938-3fd689b1c205-1673451384c0d362b9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Privacy Verklaring<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16014537130157__6b2d3144-5300-4762-b938-3fd689b1c205-1673451384c0d362b9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wanneer je op mijn website actief bent of contact met mij opneemt deel je soms persoonsgegevens met mij. Ik ga zorgvuldig met deze gegevens om en houd mij aan de hierbij geldende wet- en regelgeving. Deze wetten gaan over het bewaren en gebruiken van jouw persoonsgegevens.<\/p><p>In deze privacyverklaring leg ik je uit welke gegevens ik van je verzamel en wat ik met deze gegevens doe. Deze privacyverklaring geldt voor alle interactie tussen jou en KUT.illustraties, de manier van communicatie maakt daarbij niet uit.<\/p><p>KUT.illustraties, gevestigd aan de Verwersdijk 2 te Delft (geen bezoekadres!), is verantwoordelijk voor de verwerking van de persoonsgegevens zoals vermeld in deze privacyverklaring. Je kunt vragen of opmerkingen betreffende jouw privacy versturen naar <a href=\"mailto:hoi@kutillustraties.com\" target=\"_self\"><span style=\"text-decoration:underline\">hoi@kutillustraties.com<\/span><\/a>.<\/p><p><strong>Wat zijn persoonsgegevens?<br\/><\/strong>Alle gegevens die iets over jou vertellen en gebruikt kunnen worden om jou te identificeren zijn persoonsgegevens. Denk bijvoorbeeld aan je naam, je contact- of adresgegevens en je BSN. Sommige van deze gegevens zoals etnische afkomst, geloof of een strafrechtelijk verleden zijn bijzondere persoonsgegevens.<\/p><p><strong>Bijzondere persoonsgegevens<br\/><\/strong>Ik verzamel geen bijzondere persoonsgegevens.<\/p><p><strong>Persoonsgegevens van personen jonger dan 16 jaar<br\/><\/strong>Ik heb niet de intentie om persoonsgegevens van personen jonger dan 16 jaar te verwerken. Ik kan echter niet controleren of een bezoeker van mijn websites en servers ouder dan 16 jaar is. Als je er van overtuigd bent dat ik persoonlijke gegevens van een minderjarig persoon heb verzameld zonder toestemming van ouder of voogd dan kun je contact opnemen via <a href=\"mailto:hoi@kutillustraties.com\" target=\"_self\"><span style=\"text-decoration:underline\">hoi@kutillustraties.com<\/span><\/a> en dan verwijder ik, indien mogelijk, deze informatie. Indien er gegevens van personen jonger dan 16 jaar door mij worden verzameld zal dit altijd gebeuren met toestemming van zijn\/haar ouder of voogd.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16014537130157__6b2d3144-5300-4762-b938-3fd689b1c205-1673451384c0d362b9-0",
+        "template--16014537130157__6b2d3144-5300-4762-b938-3fd689b1c205-1673451384c0d362b9-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "c3198f39-6883-4f6a-afd1-e9e3bdb0daac": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16014521008301__c3198f39-6883-4f6a-afd1-e9e3bdb0daac-167345080528b56ff3-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Wanneer verwerk ik jouw persoonsgegevens?",
+            "icon": "none",
+            "row_content": "<p><strong>1. Om je te kunnen helpen als je vragen hebt.<\/strong><\/p><p>Ik help je graag verder als je ergens tegenaan loopt of een vraag voor mij hebt. Je kunt mij bellen,<br\/>e-mailen of een formulier invullen op de website. Ook kan het zijn dat ik je gegevens krijg via derden in verband met mijn dienstverlening. Om je verder te kunnen helpen sla ik een aantal gegevens van je op. Op die manier weet ik wie je bent en kan ik ook bij het volgende contactmoment terugvinden waar we het over hebben gehad.<\/p><p>Als je vragen voor mij hebt dan sla ik de volgende gegevens van je op:<\/p><ul><li>Naam<\/li><li>E-mailadres<\/li><li>Jouw bericht<\/li><\/ul><p><strong>Wettelijke grondslag:<\/strong> gerechtvaardigd belang.<\/p><p><\/p><p><strong>2. Om offertes op te stellen en naar je te versturen.<\/strong><\/p><p>Voordat ik voor je aan de slag ga kan ik je een offerte toesturen. Hiervoor sla ik de volgende gegevens van je op:<\/p><ul><li>N.A.W. gegevens<\/li><li>E-mailadres<\/li><li>Telefoonnummer<\/li><li>Bedrijfsnaam (optioneel)<\/li><li>Kamer van Koophandelnummer (optioneel)<\/li><li>BTW-ID nummer (optioneel)<\/li><\/ul><p><strong>Wettelijke<\/strong> <strong>grondslag<\/strong>: gerechtvaardigd belang.<\/p><p><strong>3. Om een overeenkomst uit te voeren en de bestelde producten naar je op te sturen.<\/strong><\/p><p>Als je bij mij diensten afneemt en\/of producten bestelt, dan wil je goed geholpen worden en ontvangen wat je hebt besteld. Ik sla de volgende gegevens op voor het uitvoeren van een overeenkomst:<\/p><ul><li>N.A.W. gegevens<\/li><li>E-mailadres<\/li><li>Telefoonnummer<\/li><li>De overige door jou aangeleverde (persoons-)gegevens<\/li><\/ul><p><strong>Wettelijke grondslag:<\/strong> uitvoering van de overeenkomst<\/p><p><strong>4. Om je te kunnen factureren & incasseren.<\/strong><\/p><p>De door jou afgenomen diensten moeten natuurlijk ook betaald worden. Als je dit niet doet dan start ik een incassotraject. In verband met facturatie & incasso sla ik de volgende gegevens van je op:<\/p><ul><li>N.A.W. gegevens<\/li><li>E-mailadres<\/li><li>Telefoonnummer<\/li><li>Bedrijfsnaam (optioneel)<\/li><li>Kamer van Koophandelnummer (optioneel)<\/li><li>BTW-ID nummer (optioneel)<\/li><\/ul><p><strong>Wettelijke grondslag:<\/strong> wettelijke verplichting.<\/p><p><strong>5. Om je op de hoogte te houden van wijzigingen in mijn dienstverlening.<\/strong><\/p><p>Wanneer ik wijzigingen doorvoer in mijn dienstverlening, algemene voorwaarden, privacyverklaring of overige belangrijke zaken dan stel ik je hiervan graag op de hoogte. Als je hiermee akkoord gaat dan gebruik ik de volgende gegevens om je in mijn administratiesysteem te verwerken:<\/p><ul><li>Naam<\/li><li>E-mailadres<\/li><\/ul><p><strong>Wettelijke grondslag:<\/strong> uitvoering van de overeenkomst.<\/p><p><strong>6. Om je mijn nieuwsbrieven toe te sturen.<\/strong><\/p><p>Als je bij mij hebt aangegeven dat je mijn nieuwsbrief wilt ontvangen sla ik de volgende gegevens van je op:<\/p><ul><li>Naam<\/li><li>E-mailadres<\/li><\/ul><p><strong>Wettelijke grondslag: <\/strong>toestemming.​<\/p>",
+            "page": ""
+          }
+        },
+        "template--16014521008301__c3198f39-6883-4f6a-afd1-e9e3bdb0daac-167345080528b56ff3-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Cookies en vergelijkbare technieken die ik gebruik",
+            "icon": "none",
+            "row_content": "<p>KUT.illustraties gebruikt functionele, analytische en tracking cookies. Een cookie is een klein tekstbestand dat bij het eerste bezoek aan een website wordt opgeslagen op je computer, tablet of telefoon. Ik gebruik cookies met een puur technische functionaliteit zodat de website werkt zoals bedoeld.<\/p><p>Daarnaast gebruik ik analytische cookies zoals Google Analytics om het gedrag van mijn bezoekers te kunnen bestuderen en aan de hand hiervan mijn website te kunnen verbeteren.<\/p><p>Als ik je toestemming nodig heb om cookies te mogen plaatsen dan vraag ik je dit tijdens je eerste bezoek aan mijn website. Ik verwijs je daarbij ook naar mijn cookie verklaring. Je kunt je afmelden voor cookies door je internetbrowser zo in te stellen dat deze geen cookies meer opslaat.<\/p>",
+            "page": ""
+          }
+        },
+        "template--16014521008301__c3198f39-6883-4f6a-afd1-e9e3bdb0daac-167345080528b56ff3-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Doorgifte aan partners",
+            "icon": "none",
+            "row_content": "<p>Ik werk voor het uitvoeren van mijn dienstverlening samen met verschillende leveranciers en partners.<\/p><p>Deze leveranciers & partners zijn onder andere partijen die:<\/p><ul><li>Mijn nieuwsbrieven versturen (WIX)<\/li><li>Mijn betalingen & incasso’s afhandelen (The Bookie en DOLLY)<\/li><li>Mijn webhosting & e-mail verzorgen (WIX)<\/li><li>Mijn boekhouding doen (The Bookie)<\/li><li>De bestellingen versturen (Myparcel en PostNL)<\/li><\/ul><p>Met subverwerkers heb ik verwerkersovereenkomsten en\/of geheimhoudingsverklaringen afgesloten om de veiligheid van jouw gegevens te waarborgen. Ik werk alleen samen met partners die kunnen voldoen aan de AVG wetgeving.<\/p><p>Enkele van mijn partners bevinden zich buiten de Europese Economische Ruimte (de landen binnen de Europese Unie, Liechtenstein, Noorwegen en IJsland). Je gegevens kunnen worden verwerkt in Amerika en\/of andere landen waar deze bedrijven hun cloudopslag hebben en servers en\/of backups hebben.<\/p><p>Met deze partners heb ik passende maatregelen genomen welke contractueel via een verwerkersovereenkomst \/ Data Processing Addendum zijn afgesproken of via een modelovereenkomst van de Europese Commissie <a href=\"https:\/\/eur-lex.europa.eu\/legal-content\/en\/TXT\/?uri=CELEX:32010D0087\" target=\"_blank\"><span style=\"text-decoration:underline\">(klik hier)<\/span><\/a>. De strengere GDPR (de AVG) is vaak door de meesten van hen al ondertekend en werkzaam. Op deze manier zorg ik ervoor dat jouw gegevens goed worden beschermd.<\/p>",
+            "page": ""
+          }
+        },
+        "5c7f1f97-7364-448a-9ca0-386cf69e05b5": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Doorgifte aan derden",
+            "icon": "none",
+            "row_content": "<p>In principe deel of verkoop ik je gegevens niet met personen of organisaties buiten KUT.illustraties, behalve met partners zoals hierboven beschreven. Ook kan het zijn dat ik verplicht word om je gegevens door te geven op grond van een wettelijke plicht.<\/p>",
+            "page": ""
+          }
+        },
+        "42faca0c-0203-4240-bdc1-be5fd4330537": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "De beveiliging van jouw gegevens",
+            "icon": "none",
+            "row_content": "<p>KUT.illustraties heeft passende technische en organisatorische beveiligingsmaatregelen genomen om je persoonsgegevens te beschermen tegen misbruik, onrechtmatig of ongeautoriseerd gebruik en verlies.<\/p><p>Alle partijen die jouw gegevens voor mij verwerken (subverwerkers) of in kunnen zien (denk aan medewerkers of inhuurkrachten) tekenen een verwerkersovereenkomst of geheimhoudingsverklaring. Deze overeenkomsten en bijbehorende gegevens worden bewaard voor de duur zolang ik samenwerken met deze partijen.<\/p>",
+            "page": ""
+          }
+        },
+        "8ac386fb-dcd1-42e6-ab69-8a61a01b5012": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Hoe lang worden jouw gegevens bewaard?",
+            "icon": "none",
+            "row_content": "<p>Voor verschillende gegevensstromen hanteer ik verschillende bewaartermijnen. Natuurlijk heb je altijd het recht om mij te verzoeken je gegevens te verwijderen. Zie hiervoor ook het kopje “Jouw rechten”.<\/p><p><strong>Persoonsgegevens<\/strong>:<br\/>Naam, adresgegevens, telefoonnummer en e-mail verwijder ik 1 jaar na ons laatste contact.<\/p><p><strong>E-mail:<\/strong><br\/>E-mail ouder dan 1 jaar wordt verwijderd tenzij deze nog relevant zijn voor het uitvoeren van een overeenkomst of oplossen van een geschil.​<\/p><p><strong>Facturen en offertes:<\/strong><br\/>Facturen en offertes kunnen worden verwijderd na de wettelijke bewaartermijn van 7 jaar. Je gegevens blijven in ieder geval tot die tijd aanwezig in mijn facturatiesysteem.<\/p><p><strong>Nieuwsbrief:<\/strong><br\/>Je kunt op ieder gewenst moment je gegevens zelf uit mijn nieuwsbrief systeem verwijderen.<\/p>",
+            "page": ""
+          }
+        },
+        "cb72258a-2065-498e-ac51-db21a306e446": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Jouw rechten",
+            "icon": "none",
+            "row_content": "<p>Je hebt het recht om je persoonsgegevens in te zien, te corrigeren en te verwijderen. Daarnaast heb je het recht om jouw toestemming voor de gegevensverwerking in te trekken of bezwaar te maken tegen de verwerking van jouw persoonsgegevens door KUT.illustraties. Ook heb je het recht op gegevensoverdraagbaarheid. Je kunt een verzoek tot inzage, correctie, verwijdering, gegevensoverdraging van je persoonsgegevens of verzoek tot intrekking van je toestemming of bezwaar op de verwerking van je persoonsgegevens sturen naar <a href=\"mailto:hoi@kutillustraties.com\" target=\"_self\"><span style=\"text-decoration:underline\">hoi@kutillustraties.com<\/span><\/a>.<\/p><p>Om er zeker van te zijn dat het verzoek tot inzage door jou is gedaan, vraag ik je een kopie van je identiteitsbewijs met het verzoek mee te sturen. Maak in deze kopie je pasfoto, MRZ (machine readable zone, de strook met nummers onderaan het paspoort), paspoortnummer en Burgerservicenummer (BSN) zwart.<\/p><p>Dit ter bescherming van je privacy. Indien je verzoek betrekking heeft op een cookie dan vraag ik je deze ook mee te sturen. Ik reageer zo snel mogelijk, maar uiterlijk binnen vier weken, op je verzoek. KUT.illustraties wil je er tevens op wijzen dat je de mogelijkheid hebt om een klacht in te dienen bij de nationale toezichthouder, de Autoriteit Persoonsgegevens.<\/p>",
+            "page": ""
+          }
+        },
+        "37181248-770e-4b61-a22f-80d0a348b762": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Melden van een datalek",
+            "icon": "none",
+            "row_content": "<p>Wanneer er ondanks alle voorzorgsmaatregelen toch een datalek plaatsvindt dan houd ik mij aan de meldplicht datalekken en meld ik dit lek, mocht dit nodig zijn, binnen 72 uur na constatering bij de Autoriteit Persoonsgegevens. Mocht je een datalek ontdekken dan vraag ik je vriendelijk dit zo snel mogelijk maar in ieder geval binnen 24 uur nadat je het lek hebt geconstateerd met mij te delen door een e-mail te sturen naar <a href=\"mailto:hoi@kutillustraties.com\" target=\"_self\"><span style=\"text-decoration:underline\">hoi@kutillustraties.com<\/span><\/a>. Ik kan dan direct actie ondernemen.<\/p>",
+            "page": ""
+          }
+        },
+        "19b755a8-7920-47a1-bfe3-8340e6042df5": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Aansprakelijkheid",
+            "icon": "none",
+            "row_content": "<p>Deze privacyverklaring heeft alleen betrekking op de persoonsgegevens die KUT.illustraties verwerkt ten behoeve van de in deze overeenkomst besproken punten. KUT.illustraties accepteert geen enkele verantwoordelijkheid of aansprakelijkheid voor (de werking en\/of inhoud van) websites of diensten van derden.<\/p>",
+            "page": ""
+          }
+        },
+        "be6a99ce-5438-4267-a99f-953f4990adb4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Wijzigingen in deze verklaring",
+            "icon": "none",
+            "row_content": "<p>De inhoud van deze privacyverklaring kan op ieder moment worden aangepast door KUT.illustraties om in te spelen op nieuwe ontwikkelingen op gebied van wet- of regelgeving of wijzigingen binnen mijn bedrijf. Je kunt je abonneren op mijn nieuwsbrief waar ik je op de hoogte houd van eventuele wijzigingen.<\/p><p>In ieder geval raad ik je aan mijn privacyverklaring geregeld te raadplegen om op de hoogte te blijven van mijn privacy beleid. Door na wijzigingen gebruik te blijven maken van de diensten van KUT.illustraties ga je akkoord met deze wijzigingen.<\/p>",
+            "page": ""
+          }
+        },
+        "d7d8c7f1-1dbd-452c-b45c-fd126a186511": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Contactgegevens",
+            "icon": "none",
+            "row_content": "<p><strong>Contact<\/strong><br\/>Heb je verder nog vragen of opmerkingen? Dan kun je contact opnemen via de e-mail, <a href=\"mailto:hoi@kutillustraties.com\" target=\"_self\"><span style=\"text-decoration:underline\">hoi@kutillustraties.com<\/span><\/a> of per post:<\/p><p><strong>KUT.illustraties<\/strong><br\/>T.a.v.: Fien ten Dam<br\/>Verwersdijk 2 <br\/>2611 NH Delft<\/p><p>KUT.illustraties is geregistreerd bij de Kamer van Koophandel onder nummer 77057961.<br\/>Versie: maart 2022<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16014521008301__c3198f39-6883-4f6a-afd1-e9e3bdb0daac-167345080528b56ff3-0",
+        "template--16014521008301__c3198f39-6883-4f6a-afd1-e9e3bdb0daac-167345080528b56ff3-1",
+        "template--16014521008301__c3198f39-6883-4f6a-afd1-e9e3bdb0daac-167345080528b56ff3-2",
+        "5c7f1f97-7364-448a-9ca0-386cf69e05b5",
+        "42faca0c-0203-4240-bdc1-be5fd4330537",
+        "8ac386fb-dcd1-42e6-ab69-8a61a01b5012",
+        "cb72258a-2065-498e-ac51-db21a306e446",
+        "37181248-770e-4b61-a22f-80d0a348b762",
+        "19b755a8-7920-47a1-bfe3-8340e6042df5",
+        "be6a99ce-5438-4267-a99f-953f4990adb4",
+        "d7d8c7f1-1dbd-452c-b45c-fd126a186511"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "6b2d3144-5300-4762-b938-3fd689b1c205",
+    "c3198f39-6883-4f6a-afd1-e9e3bdb0daac"
+  ]
+}
