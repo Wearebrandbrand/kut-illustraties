@@ -1,0 +1,55 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_PGn4Mz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PaFc8V": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>V E R K O O P P U N T E N<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "text_9ytJCx": {
+          "type": "text",
+          "settings": {
+            "text": "<p><\/p><p>DELFT - NL - <a href=\"https:\/\/www.instagram.com\/steen_papier_schaar\/\" title=\"https:\/\/www.instagram.com\/steen_papier_schaar\/\">Steen Papier Schaar<\/a><\/p><p>DEN BURG - NL -  <a href=\"https:\/\/www.instagram.com\/stek_conceptstore\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/stek_conceptstore\/\">Stek conceptstore<\/a><\/p><p>DEVENTER - NL -  <a href=\"https:\/\/www.instagram.com\/madamthelabel\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/madamthelabel\/\">Madam de label<\/a><\/p><p>DORDRECHT - NL - <a href=\"https:\/\/www.opa-en-an.nl\/\" target=\"_blank\" title=\"https:\/\/www.opa-en-an.nl\/\">Opa & An<\/a><\/p><p>ENKHUIZEN - NL - Knus Conceptstore<\/p><p>ENSCHEDE - NL - <a href=\"https:\/\/www.instagram.com\/frankencharlie\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/frankencharlie\/\">Frank & Charlie<\/a><\/p><p>GENT - BE - <a href=\"https:\/\/www.instagram.com\/axeswardesign\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/axeswardesign\/\">Axeswar Design<\/a><\/p><p>GENT - BE - <a href=\"https:\/\/www.instagram.com\/helenb.be\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/helenb.be\/\">Helen B & co<\/a><\/p><p>HAARLEM - NL - <a href=\"https:\/\/www.instagram.com\/project35_haarlem\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/project35_haarlem\/\">Project 35<\/a><\/p><p>'S - HERTOGENBOSCH - NL -  <a href=\"https:\/\/www.instagram.com\/aafstores\/\" title=\"https:\/\/www.instagram.com\/aafstores\/\">Aaf conceptstore<\/a><\/p><p>KORTRIJK - BE - <a href=\"https:\/\/www.deinkijk.be\/\" target=\"_blank\" title=\"https:\/\/www.deinkijk.be\/\">De Inkijk<\/a><\/p><p>LEEUWARDEN - NL - <a href=\"https:\/\/www.instagram.com\/ferkoffie\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/ferkoffie\/\">Fer koffie<\/a><\/p><p>LEIDEN - NL - <a href=\"https:\/\/www.instagram.com\/vntglabel\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/vntglabel\/\">VNTG<\/a><\/p><p>MAASTRICHT - NL - <a href=\"https:\/\/www.instagram.com\/dotnsquare_vintage\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/dotnsquare_vintage\/\">Dotnsquare Vintage<\/a><\/p><p>MECHELEN - BE - <a href=\"https:\/\/www.instagram.com\/myexboyfriend\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/myexboyfriend\/\">My Ex Boyfriend<\/a><\/p><p>NAALDWIJK - NL - <a href=\"https:\/\/www.rumahconceptstore.nl\/\" target=\"_blank\" title=\"https:\/\/www.rumahconceptstore.nl\/\">RUMAH conceptstore<\/a><\/p><p>NIJMEGEN - NL - <a href=\"https:\/\/www.instagram.com\/bobenbill\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/bobenbill\/\">Bob & Bill<\/a><\/p><p>NIJMEGEN - NL - <a href=\"https:\/\/www.instagram.com\/fierconceptstore\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/fierconceptstore\/\">Fier conceptstore<\/a><\/p><p>OOSTBURG - NL - <a href=\"https:\/\/www.instagram.com\/hetbloempje\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/hetbloempje\/\">Het bloempje<\/a><\/p><p>OOSTERBEEK - NL - <a href=\"https:\/\/www.instagram.com\/winkeltjevanmadame\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/winkeltjevanmadame\/\">Winkeltje van Madame<\/a><\/p><p>RIDDERKERK - NL - <a href=\"https:\/\/www.instagram.com\/stolenconcept\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/stolenconcept\/\">Stolen Concept<\/a><\/p><p>ROERMOND - NL - <a href=\"https:\/\/www.instagram.com\/pixiefeelgoodsstore\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/pixiefeelgoodsstore\/\">Pixie Store<\/a><\/p><p>ROTTERDAM - NL - <a href=\"https:\/\/www.instagram.com\/bloembinderijgeschikt\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/bloembinderijgeschikt\/\">Alles in Wonderland<\/a><\/p><p>SCHOONHOVEN - NL - <a href=\"https:\/\/www.instagram.com\/loicconceptstore\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/loicconceptstore\/\">Loic<\/a><\/p><p>SEVENUM - NL - <a href=\"https:\/\/www.instagram.com\/timsevenum\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/timsevenum\/\">Tim Sevenum<\/a><\/p><p>SNEEK - NL - <a href=\"https:\/\/www.instagram.com\/koesterconceptstore\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/koesterconceptstore\/\">Koester conceptstore<\/a><\/p><p>TILBURG - NL - <a href=\"https:\/\/www.instagram.com\/tientilburg\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/tientilburg\/\">Tien Tilburg<\/a><\/p><p>UDEN - NL - <a href=\"https:\/\/byhan.nl\/?srsltid=AfmBOoosk6gb9kkWojStfzjVKXJKWgPuE5twelW33q6qQxvR-FriFwRH\" target=\"_blank\" title=\"https:\/\/byhan.nl\/?srsltid=AfmBOoosk6gb9kkWojStfzjVKXJKWgPuE5twelW33q6qQxvR-FriFwRH\">ByHan<\/a><\/p><p>UTRECHT - NL - <a href=\"https:\/\/www.instagram.com\/en.meer\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/en.meer\/\">Bord & meer<\/a><\/p><p>UTRECHT - NL -  <a href=\"https:\/\/www.instagram.com\/popupgaard\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/popupgaard\/\">Pop-up Gaard<\/a><\/p><p>VOORBURG - NL -  <a href=\"https:\/\/www.instagram.com\/pr8t1g\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/pr8t1g\/\">Pr8t1g<\/a><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_PaFc8V",
+        "text_9ytJCx"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_PGn4Mz"
+  ]
+}
