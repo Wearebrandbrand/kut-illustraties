@@ -2890,5 +2890,17 @@
         "name": "Collapsible content"
       }
     }
+  },
+  "breadcrumbs": {
+    "name": "Breadcrumbs"
+  },
+  "border": {
+    "name": "Image Style",
+    "no-border": {
+      "name" : "Without Border"
+    },
+    "border": {
+      "name" :"With Border"
+    }
   }
 }
