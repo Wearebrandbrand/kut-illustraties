@@ -16,6 +16,7 @@
   {% if section.settings.border_option == 'no-border' %}
   	.section-{{ section.id }}-padding .image-with-text__media {
       border: none !important;
+      object-fit: contain;
   	}
   {% endif %}
 {%- endstyle -%}
