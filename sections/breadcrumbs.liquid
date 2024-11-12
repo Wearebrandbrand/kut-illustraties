@@ -1,0 +1,58 @@
+{{ 'section-breadcrumbs.css' | asset_url | stylesheet_tag }}
+
+{%- unless template == 'index' or template == 'cart' or template == 'list-collections' or template == '404' -%}
+{%- assign t = template | split: '.' | first -%}
+
+<div class="page-width">
+  <nav class="breadcrumbs" role="navigation" aria-label="breadcrumbs">
+    <ol class="breadcrumbs__list">
+      <li class="breadcrumbs__item">
+        <a class="breadcrumbs__link" href="/">Home</a>
+      </li>
+      {%- case t -%}
+        {%- when 'product' -%}
+          {%- if collection.url -%}
+            <li class="breadcrumbs__item">
+              <span> / </span>
+            {{ collection.title }}
+            </li>
+          {%- endif -%}
+          <li class="breadcrumbs__item">
+            <span> / </span>
+            {{ product.title }}
+          </li>
+        {%- when 'collection' and collection.handle -%}
+          {%- if current_tags -%}
+            <li class="breadcrumbs__item">
+              <span> / </span>
+              {{ collection.title }}
+            </li>
+            <li class="breadcrumbs__item">
+              <span> / </span>
+              {%- capture tag_url -%}{{ collection.url }}/{{ current_tags | join: "+"}}{%- endcapture -%}
+              <a class="breadcrumbs__link" href="{{ tag_url }}" aria-current="page">{{ current_tags | join: " + "}}</a>
+            </li>
+          {%- else -%}
+            <li class="breadcrumbs__item">
+              <span> / </span>
+              <a class="breadcrumbs__link" href="{{ collection.url }}" aria-current="page">{{ collection.title }}</a>
+            </li>
+          {%- endif -%}
+      {%- endcase -%}
+    </ol>
+  </nav>
+</div>
+
+{%- endunless -%}
+
+
+{% schema %}
+  {
+    "name": "t:sections.breadcrumbs.name",
+    "tag": "section",
+    "class": "breadcrumbs",
+    "settings": [
+    
+    ]
+  }
+{% endschema %}
