@@ -78,3 +78,14 @@
 .collection__view-all a:not(.link) {
   margin-top: 1rem;
 }
+
+@media screen and (max-width: 340px) {
+  #main-collection-filters .facets-container {
+    grid-template-columns: auto;
+    justify-content: center;
+  }
+
+  #main-collection-filters .facets-container .product-count {
+    text-align: center;
+  }
+}
