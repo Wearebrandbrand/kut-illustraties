@@ -408,6 +408,9 @@
       "password": "Password",
       "password_confirm": "Confirm password",
       "submit": "Reset password"
+    },
+	"breadcrumbs": {
+      "name": "Breadcrums"
     }
   },
   "gift_cards": {
