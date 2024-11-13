@@ -2889,18 +2889,18 @@
       "presets": {
         "name": "Collapsible content"
       }
-    }
-  },
-  "breadcrumbs": {
-    "name": "Breadcrumbs"
-  },
-  "border": {
-    "name": "Image Style",
-    "no-border": {
-      "name" : "Without Border"
+    },
+    "breadcrumbs": {
+      "name": "Breadcrumbs"
     },
     "border": {
-      "name" :"With Border"
+      "name": "Image Style",
+      "no-border": {
+        "name" : "Without Border"
+      },
+      "border": {
+        "name" :"With Border"
+      }
     }
   }
 }
