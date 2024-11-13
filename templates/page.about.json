@@ -7,190 +7,194 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
-{
-  "sections": {
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-        "padding_top": 28,
-        "padding_bottom": 28
-      }
-    },
-    "image_with_text_kpyfDB": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_MaMAix": {
-          "type": "heading",
-          "settings": {
-            "heading": "O V E R . K U T",
-            "heading_size": "h2"
-          }
-        },
-        "text_QetBA7": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Hoi ik ben Fien en ik teken kutten!</p><p>\"Kut\"! We gooien het er allemaal wel eens uit en vaak met een wat negatieve lading. Zonde! Want de kut is zo’n mooi ding! Met KUT.illustraties probeer ik om de kut weer de positieve lading te geven die het verdiend, doormiddel van een kut grapje en een illustratie. Als door mijn tekeningen het vrouwelijk geslachtsorgaan beter bespreekbaar wordt, is dat mooi meegenomen.</p><p>Naast kutten illustreren sta ik ook met KUT op festivals zoals Milkshake. Ook ga ik graag samenwerkingen aan met organisaties, bedrijven en artiesten. Zo werkte ik al eerder met Amnesty International, Cheex en de zangeres Merol. </p><p>De kutten worden allemaal geïllustreerd in mijn shop + studio <a href=\"/pages/kut-studio\" title=\"KUT studio\">Steen Papier Schaar in Delft.</a></p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_MaMAix",
-        "text_QetBA7"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/la_fien.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "accent-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "rich_text_3rXMCY": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_GnLAKR": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>T E A M  . K U T</p>",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_GnLAKR"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 32,
-        "padding_bottom": 32
-      }
-    },
-    "image_with_text_PthEzL": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_7cNGxR": {
-          "type": "heading",
-          "settings": {
-            "heading": "F I E N",
-            "heading_size": "h1"
-          }
-        },
-        "text_VVkyVK": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>'Mother of the kutten'</strong></p><p>Na de opleiding tot kunstdocent te hebben gedaan op de Willem de Kooning en een aantal jaren les te hebben gegeven, was er ondertussen een hoop gebeurd in Fien’s leven. Alles was toen gewoon even heel erg KUT. Kutten tekenen als therapie werd de oplossing! Wat begon als een creatieve uitlaatklep: kut kaartjes maken voor vrienden en familie, groeide al snel uit tot een kleurrijke instagram pagina, geheel gewijd aan het vrouwelijk geslachtsorgaan. Met humor en een gezellige illustratie, deelt Fien hier haar kuttige hersenspinsels.</p><p>Want ondanks dat het leven soms ronduit KUT kan zijn, moeten we vooral niet vergeten een beetje te blijven lachen :)</p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_7cNGxR",
-        "text_VVkyVK"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/fien_lange_foto.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "image_with_text_JkxjPW": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_Xd6KEW": {
-          "type": "heading",
-          "settings": {
-            "heading": "N I E N K E",
-            "heading_size": "h1"
-          }
-        },
-        "text_HC97qj": {
-          "type": "text",
-          "settings": {
-            "text": "<p>.</p><p>Kut ging al snel als een raket! De kut klusjes stapelde zich op en Fien zag door het klittenbos de kutjes niet meer. Ze kon het eigenlijk niet meer allemaal alleen.</p><p>Nienke zag het allemaal van dichtbij gebeuren. Als beste vriendin en mede-creatieveling zag ze dat het de hoogste tijd werd dat Fien iemand zou hebben om samen mee te kutten. </p><p>Naast haar <a href=\"https://www.instagram.com/frenchtoaststudio\" target=\"_blank\" title=\"https://www.instagram.com/frenchtoaststudio\">eigen ontwerpwerk</a> helpt zij nu 2 dagen met KUT. Van fotograferen tot grafisch design klusjes en van wholesale contact tot aan productontwikkeling: voor geen enkele KUT klus draait ze haar hand nog voor om.</p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Xd6KEW",
-        "text_HC97qj"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/nienke_lange_foto.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "image_with_text_jXrqXA": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_yDFaWX": {
-          "type": "heading",
-          "settings": {
-            "heading": "P A U L A",
-            "heading_size": "h1"
-          }
-        },
-        "text_MwAcjr": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>'Powerhouse Paula'</strong></p><p></p><p></p><p>Beter bekend als ‘Powerrrrhouse Paula’, want niemand met zo’n aanstekelijk enthousiasme en energie als zij! </p><p>Paula is het nichtje van Fien en was er al bij toen KUT nog in de luiers zat. De eerste beurzen en events was zij Fien’s rechterhand en de drijvende kracht op het gebied van sales en klantencontact. Naast haar baan als Category & Customer Service Specialist bij <a href=\"https://douxestore.nl/?gad_source=1&gclid=CjwKCAjwooq3BhB3EiwAYqYoElSmpII81vEYhKsspxxMW1krfppuf-y46LqW6QBMv9091rD-X9_gnhoCh7MQAvD_BwE\" target=\"_blank\" title=\"https://douxestore.nl/?gad_source=1&gclid=CjwKCAjwooq3BhB3EiwAYqYoElSmpII81vEYhKsspxxMW1krfppuf-y46LqW6QBMv9091rD-X9_gnhoCh7MQAvD_BwE\">Douxe</a>  gaat ze af en toe nog mee naar evenementen of springt ze bij achter de schermen als er zich een KUT klusje voordoet. </p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_yDFaWX",
-        "text_MwAcjr"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/paula_lange_foto.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    }
-  },
-  "order": [
-    "main",
-    "image_with_text_kpyfDB",
-    "rich_text_3rXMCY",
-    "image_with_text_PthEzL",
-    "image_with_text_JkxjPW",
-    "image_with_text_jXrqXA"
-  ]
-}
+ {
+	"sections": {
+	  "main": {
+		"type": "main-page",
+		"disabled": true,
+		"settings": {
+		  "padding_top": 28,
+		  "padding_bottom": 28
+		}
+	  },
+	  "image_with_text_kpyfDB": {
+		"type": "image-with-text",
+		"blocks": {
+		  "heading_MaMAix": {
+			"type": "heading",
+			"settings": {
+			  "heading": "O V E R . K U T",
+			  "heading_size": "h2"
+			}
+		  },
+		  "text_QetBA7": {
+			"type": "text",
+			"settings": {
+			  "text": "<p>Hoi ik ben Fien en ik teken kutten!</p><p>\"Kut\"! We gooien het er allemaal wel eens uit en vaak met een wat negatieve lading. Zonde! Want de kut is zo’n mooi ding! Met KUT.illustraties probeer ik om de kut weer de positieve lading te geven die het verdiend, doormiddel van een kut grapje en een illustratie. Als door mijn tekeningen het vrouwelijk geslachtsorgaan beter bespreekbaar wordt, is dat mooi meegenomen.</p><p>Naast kutten illustreren sta ik ook met KUT op festivals zoals Milkshake. Ook ga ik graag samenwerkingen aan met organisaties, bedrijven en artiesten. Zo werkte ik al eerder met Amnesty International, Cheex en de zangeres Merol. </p><p>De kutten worden allemaal geïllustreerd in mijn shop + studio <a href=\"/pages/kut-studio\" title=\"KUT studio\">Steen Papier Schaar in Delft.</a></p>",
+			  "text_style": "body"
+			}
+		  }
+		},
+		"block_order": [
+		  "heading_MaMAix",
+		  "text_QetBA7"
+		],
+		"settings": {
+		  "image": "shopify://shop_images/la_fien.jpg",
+		  "height": "adapt",
+		  "desktop_image_width": "medium",
+		  "layout": "image_first",
+		  "desktop_content_position": "top",
+		  "desktop_content_alignment": "left",
+		  "content_layout": "overlap",
+		  "color_scheme": "accent-2",
+		  "mobile_content_alignment": "left",
+		  "padding_top": 36,
+		  "padding_bottom": 36
+		}
+	  },
+	  "rich_text_3rXMCY": {
+		"type": "rich-text",
+		"blocks": {
+		  "heading_GnLAKR": {
+			"type": "heading",
+			"settings": {
+			  "heading": "<p>T E A M  . K U T</p>",
+			  "heading_size": "h1"
+			}
+		  }
+		},
+		"block_order": [
+		  "heading_GnLAKR"
+		],
+		"settings": {
+		  "desktop_content_position": "center",
+		  "content_alignment": "center",
+		  "color_scheme": "accent-1",
+		  "full_width": true,
+		  "padding_top": 32,
+		  "padding_bottom": 32
+		}
+	  },
+	  "image_with_text_PthEzL": {
+		"type": "image-with-text",
+		"blocks": {
+		  "heading_7cNGxR": {
+			"type": "heading",
+			"settings": {
+			  "heading": "F I E N",
+			  "heading_size": "h1"
+			}
+		  },
+		  "text_VVkyVK": {
+			"type": "text",
+			"settings": {
+			  "text": "<p><strong>'Mother of the kutten'</strong></p><p>Na de opleiding tot kunstdocent te hebben gedaan op de Willem de Kooning en een aantal jaren les te hebben gegeven, was er ondertussen een hoop gebeurd in Fien’s leven. Alles was toen gewoon even heel erg KUT. Kutten tekenen als therapie werd de oplossing! Wat begon als een creatieve uitlaatklep: kut kaartjes maken voor vrienden en familie, groeide al snel uit tot een kleurrijke instagram pagina, geheel gewijd aan het vrouwelijk geslachtsorgaan. Met humor en een gezellige illustratie, deelt Fien hier haar kuttige hersenspinsels.</p><p>Want ondanks dat het leven soms ronduit KUT kan zijn, moeten we vooral niet vergeten een beetje te blijven lachen :)</p>",
+			  "text_style": "body"
+			}
+		  }
+		},
+		"block_order": [
+		  "heading_7cNGxR",
+		  "text_VVkyVK"
+		],
+		"settings": {
+		  "image": "shopify://shop_images/Fien_rondje.png",
+		  "height": "small",
+		  "desktop_image_width": "medium",
+		  "layout": "image_first",
+		  "desktop_content_position": "top",
+		  "desktop_content_alignment": "left",
+		  "content_layout": "no-overlap",
+		  "border_option": "no-border",
+		  "color_scheme": "background-1",
+		  "mobile_content_alignment": "left",
+		  "padding_top": 0,
+		  "padding_bottom": 0
+		}
+	  },
+	  "image_with_text_JkxjPW": {
+		"type": "image-with-text",
+		"blocks": {
+		  "heading_Xd6KEW": {
+			"type": "heading",
+			"settings": {
+			  "heading": "N I E N K E",
+			  "heading_size": "h1"
+			}
+		  },
+		  "text_HC97qj": {
+			"type": "text",
+			"settings": {
+			  "text": "<p>.</p><p>Kut ging al snel als een raket! De kut klusjes stapelde zich op en Fien zag door het klittenbos de kutjes niet meer. Ze kon het eigenlijk niet meer allemaal alleen.</p><p>Nienke zag het allemaal van dichtbij gebeuren. Als beste vriendin en mede-creatieveling zag ze dat het de hoogste tijd werd dat Fien iemand zou hebben om samen mee te kutten. </p><p>Naast haar <a href=\"https://www.instagram.com/frenchtoaststudio\" target=\"_blank\" title=\"https://www.instagram.com/frenchtoaststudio\">eigen ontwerpwerk</a> helpt zij nu 2 dagen met KUT. Van fotograferen tot grafisch design klusjes en van wholesale contact tot aan productontwikkeling: voor geen enkele KUT klus draait ze haar hand nog voor om.</p>",
+			  "text_style": "body"
+			}
+		  }
+		},
+		"block_order": [
+		  "heading_Xd6KEW",
+		  "text_HC97qj"
+		],
+		"settings": {
+		  "image": "shopify://shop_images/Nienke_rondje.png",
+		  "height": "small",
+		  "desktop_image_width": "medium",
+		  "layout": "text_first",
+		  "desktop_content_position": "top",
+		  "desktop_content_alignment": "left",
+		  "content_layout": "no-overlap",
+		  "border_option": "no-border",
+		  "color_scheme": "background-1",
+		  "mobile_content_alignment": "left",
+		  "padding_top": 0,
+		  "padding_bottom": 0
+		}
+	  },
+	  "image_with_text_jXrqXA": {
+		"type": "image-with-text",
+		"blocks": {
+		  "heading_yDFaWX": {
+			"type": "heading",
+			"settings": {
+			  "heading": "P A U L A",
+			  "heading_size": "h1"
+			}
+		  },
+		  "text_MwAcjr": {
+			"type": "text",
+			"settings": {
+			  "text": "<p><strong>'Powerhouse Paula'</strong></p><p></p><p></p><p>Beter bekend als ‘Powerrrrhouse Paula’, want niemand met zo’n aanstekelijk enthousiasme en energie als zij! </p><p>Paula is het nichtje van Fien en was er al bij toen KUT nog in de luiers zat. De eerste beurzen en events was zij Fien’s rechterhand en de drijvende kracht op het gebied van sales en klantencontact. Naast haar baan als Category & Customer Service Specialist bij <a href=\"https://douxestore.nl/?gad_source=1&gclid=CjwKCAjwooq3BhB3EiwAYqYoElSmpII81vEYhKsspxxMW1krfppuf-y46LqW6QBMv9091rD-X9_gnhoCh7MQAvD_BwE\" target=\"_blank\" title=\"https://douxestore.nl/?gad_source=1&gclid=CjwKCAjwooq3BhB3EiwAYqYoElSmpII81vEYhKsspxxMW1krfppuf-y46LqW6QBMv9091rD-X9_gnhoCh7MQAvD_BwE\">Douxe</a>  gaat ze af en toe nog mee naar evenementen of springt ze bij achter de schermen als er zich een KUT klusje voordoet. </p>",
+			  "text_style": "body"
+			}
+		  }
+		},
+		"block_order": [
+		  "heading_yDFaWX",
+		  "text_MwAcjr"
+		],
+		"settings": {
+		  "image": "shopify://shop_images/paula_rondje.png",
+		  "height": "small",
+		  "desktop_image_width": "medium",
+		  "layout": "image_first",
+		  "desktop_content_position": "top",
+		  "desktop_content_alignment": "left",
+		  "content_layout": "no-overlap",
+		  "border_option": "no-border",
+		  "color_scheme": "background-1",
+		  "mobile_content_alignment": "left",
+		  "padding_top": 0,
+		  "padding_bottom": 0
+		}
+	  }
+	},
+	"order": [
+	  "main",
+	  "image_with_text_kpyfDB",
+	  "rich_text_3rXMCY",
+	  "image_with_text_PthEzL",
+	  "image_with_text_JkxjPW",
+	  "image_with_text_jXrqXA"
+	]
+  }
+  
